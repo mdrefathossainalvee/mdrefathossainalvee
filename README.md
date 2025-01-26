@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdrefathossianalvee) 
+
 
 
 [![](https://visitcount.itsvg.in/api?id=mdrefathossainalvee&icon=6&color=0)](https://visitcount.itsvg.in)
