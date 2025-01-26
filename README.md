@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dbangladesh%2Bflag&psig=AOvVaw1jlFQ8B46qIh11lZrGSJnf&ust=1737956294608000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiUpvLVkosDFQAAAAAdAAAAABAE)](https://www.facebook.com/mdrefathossianalvee) 
+[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdrefathossianalvee) 
 
 
 [![](https://visitcount.itsvg.in/api?id=mdrefathossainalvee&icon=6&color=0)](https://visitcount.itsvg.in)
